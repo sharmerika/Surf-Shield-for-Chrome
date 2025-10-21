@@ -1,6 +1,6 @@
-# Surf-shield for Chrome
+# SurfShield for Chrome
 
-Surf-shield is a Chrome-native AI assistant that helps users detect phishing and scam messages directly in their browser. Built with Gemini Nano and Chrome Prompt API, it empowers users with real-time analysis, educational feedback, and reporting tools.
+SurfShield is a Chrome-native AI assistant that helps users detect phishing and scam messages directly in their browser. Built with Gemini Nano and Chrome Prompt API, it empowers users with real-time analysis, educational feedback, and reporting tools.
 
 ---
 
@@ -38,7 +38,7 @@ Surf-shield is a Chrome-native AI assistant that helps users detect phishing and
 5. Click Load unpacked and select the project folder
 
 ## Testing Instructions
-- Open the Surf-shield sidepanel
+- Open the SurfShield sidepanel
 - Type a suspicious message (e.g., “Click this screenshot to verify your account”)
 - Click Run
 - Review the assistant’s response and explanation
@@ -50,7 +50,7 @@ Surf-shield is a Chrome-native AI assistant that helps users detect phishing and
 Watch the walkthrough here: [SurfShield Demo](https://youtu.be/B_0_hc2AqXM)
 
 ## Inspiration
-Surf-shield was inspired by the need to protect elderly users, people with disabilities, and anyone who may not be tech-savvy. It acts as a buffer between users and potential threats, helping them pause and think before reacting. The goal is to empower users with clarity, not just detection.
+SurfShield was inspired by the need to protect elderly users, people with disabilities, and anyone who may not be tech-savvy. It acts as a buffer between users and potential threats, helping them pause and think before reacting. The goal is to empower users with clarity, not just detection.
 
 ## What’s Next
 - Localization for Filipino, Hiligaynon, and other languages
