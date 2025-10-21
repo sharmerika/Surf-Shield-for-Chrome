@@ -47,7 +47,7 @@ Surf-shield is a Chrome-native AI assistant that helps users detect phishing and
 - Use Reset to restart the session
 
 ## Demo Video
-Watch the demo on YouTube
+Watch the walkthrough here: [SurfShield Demo](https://youtu.be/B_0_hc2AqXM)
 
 ## Inspiration
 Surf-shield was inspired by the need to protect elderly users, people with disabilities, and anyone who may not be tech-savvy. It acts as a buffer between users and potential threats, helping them pause and think before reacting. The goal is to empower users with clarity, not just detection.
