@@ -35,7 +35,7 @@ SurfShield is a Chrome-native AI assistant that helps users detect phishing and 
 
 3. Open Chrome and go to chrome://extensions
 4. Enable Developer Mode
-5. Click Load unpacked and select the project folder
+5. Click Load unpacked and select the project folder SSdist1013
 
 ## Testing Instructions
 - Open the SurfShield sidepanel
