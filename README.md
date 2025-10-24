@@ -56,10 +56,6 @@ SurfShield was inspired by the need to protect elderly users, people with disabi
 - Localization for Filipino, Hiligaynon, and other languages
 - Mobile app version for cross-platform protection
 - Public reporting dashboard for community-driven safety
-
-## License
-MIT License
-
 ---
 
 
